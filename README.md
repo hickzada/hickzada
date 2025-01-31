@@ -1,7 +1,5 @@
 # Olá, eu sou Henrique! 👋
 
-## 🛠️ Tecnologias e Ferramentas
-
 ### Skills:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" />
@@ -14,7 +12,7 @@
 
 ### Ferramentas e Frameworks:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=,vscode,github" alt="Visual Studio Code, GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode,github" alt="Visual Studio Code, GitHub" />
 </div>
 
 ---
