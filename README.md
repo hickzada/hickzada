@@ -1,5 +1,5 @@
 # Olá, eu sou Henrique! 👋
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=henriquerodss&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 ## Sobre Mim
 
 👨‍💻 Sou apaixonado por desenvolvimento web e estou sempre buscando aprender mais. Atualmente, tenho conhecimento em **HTML** e **CSS**, e estou focado em aprender **JavaScript** e tudo sobre desenvolvimento de websites e aplicações.
