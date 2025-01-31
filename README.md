@@ -1,4 +1,4 @@
-# Olá, eu sou Hickzada! 👋
+# Olá, eu sou Henrique! 👋
 
 ## Sobre Mim
 
