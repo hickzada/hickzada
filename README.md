@@ -26,8 +26,6 @@
 
 ---
 
-## 🌟 Agradecimentos
-
 Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Vamos construir algo incrível juntos! 🚀
 
 ---
