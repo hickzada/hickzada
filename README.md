@@ -1,18 +1,4 @@
 # Olá, eu sou Henrique! 👋
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=henriquerodss&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-## Sobre Mim
-
-👨‍💻 Sou apaixonado por desenvolvimento web e estou sempre buscando aprender mais. Atualmente, tenho conhecimento em **HTML** e **CSS**, e estou focado em aprender **JavaScript** e tudo sobre desenvolvimento de websites e aplicações.
-
-## Meu projeto: TowerStone 🚀
-
-A **TowerStone**, uma empresa de desenvolvimento web que transforma ideias em realidade digital. A TowerStone começará como uma plataforma para criar websites personalizados, mas meu objetivo é expandir para diversas áreas.
-
-**TowerStone** - Transformando ideias em realidade digital. 🚀
-
-Acredito que a tecnologia pode transformar vidas e negócios, e quero fazer parte dessa revolução digital.
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -32,6 +18,8 @@ Acredito que a tecnologia pode transformar vidas e negócios, e quero fazer part
 </div>
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=henriquerodss&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📫 Contato
 
