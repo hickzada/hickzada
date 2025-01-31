@@ -14,7 +14,7 @@
 
 ### Ferramentas e Frameworks:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,vite,git,github" alt="Tailwind CSS, Vite, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=,vscode,github" alt="Visual Studio Code, GitHub" />
 </div>
 
 ---
