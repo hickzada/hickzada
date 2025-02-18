@@ -1,15 +1,5 @@
 # Olá, eu sou Henrique! 👋
 
-### Skills:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS" />
-</div>
-
-### Linguagens que quero aprender:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,typescript,python" alt="JavaScript, React, Node.js, TypeScript, Python" />
-</div>
-
 ### Ferramentas e Frameworks:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode,github" alt="Visual Studio Code, GitHub" />
