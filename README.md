@@ -16,18 +16,8 @@
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,powershell,python,docker,nginx,grafana,redis,postgres,mysql,aws,php,git,github,vscode,npm)](https://skillicons.dev)
 
-### AI & Local LLMs
-<p align="left">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Open_WebUI-1E293B?style=for-the-badge&logo=docker&logoColor=38bdf8" alt="Open WebUI" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0E7490?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="RAG" />
-</p>
-
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=kubernetes,gcp,cloudflare,rust,c)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kubernetes,cloudflare,js)](https://skillicons.dev)
 
 ### Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=henriquerodss&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
