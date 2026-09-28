@@ -2,7 +2,6 @@
 
 # Henrique Rodrigues
 
-<!-- Efeito Typing em SVG puro -->
 <a href="https://github.com/henriquerodss">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=SRE+%26+Infraestrutura;Sistemas+Cr%C3%ADticos+24%2F7+%7C+Incident+Management;Automa%C3%A7%C3%A3o+Linux%2C+Docker+%26+Python;Deploy+de+LLMs+Locais+%26+RAG" alt="Typing SVG" />
 </a>
@@ -27,10 +26,3 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,postgres,aws,nginx,git,github,vscode,powershell,php" alt="Stack" />
 </p>
 
-```bash
-# Core & Operações
-OS / Kernel   :: Linux (Debian, Ubuntu) | Systemd, SSH, Network Tuning
-Containers    :: Docker, Docker Compose, Nginx Reverse Proxy
-Linguagens    :: Python, Shell/Bash, SQL, PowerShell, PHP
-Databases     :: PostgreSQL, MS SQL Server
-IA & Ops      :: Local LLM Deployments (Open WebUI), RAG, REST APIs
