@@ -1,28 +1,39 @@
-<div align="center">
+<!--
+    Hey there, I'm Henrique Rodrigues!
+    Happy to see you here exploring my profile.
+-->
 
-# Henrique Rodrigues
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=120&section=header" alt="header"/> 
 
-<a href="https://github.com/henriquerodss">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=SRE+%26+Infraestrutura;Sistemas+Cr%C3%ADticos+24%2F7+%7C+Incident+Management;Automa%C3%A7%C3%A3o+Linux%2C+Docker+%26+Python;Deploy+de+LLMs+Locais+%26+RAG" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=4000&pause=500&color=0E7490&width=550&lines=Hello%2C+it's+Henrique+Rodrigues;Systems+Analyst+%7C+SRE;Critical+Environments+%26+Automation;Linux%2C+Docker+%26+Local+LLMs" alt="Henrique Rodrigues"/>
 </a>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/henriquesousarodrigues" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:henriquesrods@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Base-São%20Paulo%2C%20BR-0F172A?style=flat-square&logo=googlemaps&logoColor=white" />
-
+<div>
+    <img src="./assets/terminal.gif" alt="Terminal GIF"/>
 </div>
 
----
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,powershell,python,docker,nginx,postgres,mysql,aws,php,git,github,vscode,postman)](https://skillicons.dev)
 
-### 💻 Stack & Ferramentas
+### Studying
+[![Learning](https://skillicons.dev/icons?i=kubernetes,gcp,cloudflare,rust,c)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,postgres,aws,nginx,git,github,vscode,powershell,php" alt="Stack" />
-</p>
+### Currently listening to
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=henriquerodss&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
+### Connect with me!
+<div>
+  <a href="https://www.linkedin.com/in/henriquesousarodrigues" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:henriquesrods@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+### Employer?
+> [!IMPORTANT]  
+> Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/henriquesousarodrigues) ou envie uma mensagem diretamente para [henriquesrods@gmail.com](mailto:henriquesrods@gmail.com).
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=120&section=footer" alt="footer"/>
