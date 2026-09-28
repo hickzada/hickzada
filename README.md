@@ -14,7 +14,17 @@
 </div>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,powershell,python,docker,nginx,postgres,mysql,aws,php,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,powershell,python,docker,nginx,grafana,redis,postgres,mysql,aws,php,git,github,vscode,npm)](https://skillicons.dev)
+
+### AI & Local LLMs
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Open_WebUI-1E293B?style=for-the-badge&logo=docker&logoColor=38bdf8" alt="Open WebUI" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0E7490?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="RAG" />
+</p>
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=kubernetes,gcp,cloudflare,rust,c)](https://skillicons.dev)
@@ -34,6 +44,6 @@
 
 ### Employer?
 > [!IMPORTANT]  
-> Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/henriquesousarodrigues) ou envie uma mensagem diretamente para [henriquesrods@gmail.com](mailto:henriquesrods@gmail.com).
+> Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/henriquesousarodrigues) or reach out directly at [henriquesrods@gmail.com](mailto:henriquesrods@gmail.com).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=120&section=footer" alt="footer"/>
